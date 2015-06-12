@@ -6,3 +6,4 @@ Git has a mutable index called stage
 My stupid boss still prefers SVN.
 add test github
 Creating a new branch is quick.
+Fast forward
